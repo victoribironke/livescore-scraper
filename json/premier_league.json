@@ -1,0 +1,223 @@
+[
+  { "name": "undefined" },
+  {
+    "name": "Newcastle United",
+    "played": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "5",
+    "goalsAgainst": "1",
+    "goalsDiff": "4",
+    "points": "3"
+  },
+  {
+    "name": "Brighton & Hove Albion",
+    "played": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "4",
+    "goalsAgainst": "1",
+    "goalsDiff": "3",
+    "points": "3"
+  },
+  {
+    "name": "Manchester City",
+    "played": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "3",
+    "goalsAgainst": "0",
+    "goalsDiff": "3",
+    "points": "3"
+  },
+  {
+    "name": "Arsenal",
+    "played": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "2",
+    "goalsAgainst": "1",
+    "goalsDiff": "1",
+    "points": "3"
+  },
+  {
+    "name": "Crystal Palace",
+    "played": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "0",
+    "goalsDiff": "1",
+    "points": "3"
+  },
+  {
+    "name": "Fulham",
+    "played": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "0",
+    "goalsDiff": "1",
+    "points": "3"
+  },
+  {
+    "name": "Brentford",
+    "played": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "2",
+    "goalsAgainst": "2",
+    "goalsDiff": "0",
+    "points": "1"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "played": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "2",
+    "goalsAgainst": "2",
+    "goalsDiff": "0",
+    "points": "1"
+  },
+  {
+    "name": "AFC Bournemouth",
+    "played": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalsDiff": "0",
+    "points": "1"
+  },
+  {
+    "name": "Chelsea",
+    "played": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalsDiff": "0",
+    "points": "1"
+  },
+  {
+    "name": "Liverpool",
+    "played": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalsDiff": "0",
+    "points": "1"
+  },
+  {
+    "name": "West Ham United",
+    "played": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalsDiff": "0",
+    "points": "1"
+  },
+  {
+    "name": "Manchester United",
+    "played": "0",
+    "wins": "0",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "0",
+    "goalsAgainst": "0",
+    "goalsDiff": "0",
+    "points": "0"
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "played": "0",
+    "wins": "0",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "0",
+    "goalsAgainst": "0",
+    "goalsDiff": "0",
+    "points": "0"
+  },
+  {
+    "name": "Nottingham Forest",
+    "played": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "1",
+    "goalsAgainst": "2",
+    "goalsDiff": "-1",
+    "points": "0"
+  },
+  {
+    "name": "Everton",
+    "played": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "0",
+    "goalsAgainst": "1",
+    "goalsDiff": "-1",
+    "points": "0"
+  },
+  {
+    "name": "Sheffield United",
+    "played": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "0",
+    "goalsAgainst": "1",
+    "goalsDiff": "-1",
+    "points": "0"
+  },
+  {
+    "name": "Luton Town",
+    "played": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "1",
+    "goalsAgainst": "4",
+    "goalsDiff": "-3",
+    "points": "0"
+  },
+  {
+    "name": "Burnley",
+    "played": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "0",
+    "goalsAgainst": "3",
+    "goalsDiff": "-3",
+    "points": "0"
+  },
+  {
+    "name": "Aston Villa",
+    "played": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "1",
+    "goalsAgainst": "5",
+    "goalsDiff": "-4",
+    "points": "0"
+  }
+]
