@@ -83,7 +83,11 @@ app.get("/", async (req, res) => {
     );
 
     await setDoc(doc(db, "admin", "data"), {
-      tableData,
+      bundesliga: tableData.bundesliga,
+      la_liga: tableData.la_liga,
+      ligue_1: tableData.ligue_1,
+      premier_league: tableData.premier_league,
+      serie_a: tableData.serie_a,
     });
 
     res.status(200).json({ success: true });
